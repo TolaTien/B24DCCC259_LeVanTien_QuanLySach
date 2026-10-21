@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thư viện sách</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_subtitle">Quản lý thư viện sách cá nhân</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="error_empty_username">Vui lòng nhập tên đăng nhập</string>
+    <string name="error_empty_password">Vui lòng nhập mật khẩu</string>
+    <string name="error_wrong_credentials">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <string name="book_list_title">Thư viện của tôi</string>
+    <string name="stat_total">Tổng sách</string>
+    <string name="stat_read">Đã đọc</string>
+    <string name="stat_unread">Chưa xong</string>
+    <string name="btn_add_book">Thêm sách</string>
+    <string name="empty_list">Chưa có sách nào.\nBấm nút + để thêm sách mới.</string>
+
+    <string name="add_book_title">Thêm sách mới</string>
+    <string name="hint_book_name">Tên sách</string>
+    <string name="hint_author">Tác giả</string>
+    <string name="hint_notes">Ghi chú (không bắt buộc)</string>
+    <string name="label_category">Thể loại</string>
+    <string name="label_status">Tình trạng đọc</string>
+    <string name="label_rating">Đánh giá</string>
+    <string name="status_unread">Chưa đọc</string>
+    <string name="status_reading">Đang đọc</string>
+    <string name="status_done">Đã đọc</string>
+    <string name="btn_save">Lưu sách</string>
+    <string name="error_empty_book_name">Vui lòng nhập tên sách</string>
+    <string name="error_empty_author">Vui lòng nhập tên tác giả</string>
+    <string name="save_success">Đã thêm sách thành công!</string>
+
+    <string name="detail_title">Chi tiết sách</string>
+    <string name="label_author">Tác giả</string>
+    <string name="label_category_detail">Thể loại</string>
+    <string name="label_status_detail">Tình trạng</string>
+    <string name="label_notes">Ghi chú</string>
+    <string name="btn_mark_read">Đánh dấu đã đọc</string>
+    <string name="btn_delete">Xóa sách</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="no_notes">Không có ghi chú</string>
+    <string name="delete_confirm_title">Xác nhận xóa</string>
+    <string name="delete_confirm_message">Bạn có chắc muốn xóa cuốn sách này không?</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_confirm_delete">Xóa</string>
+    <string name="rating_format">%1$.1f sao</string>
+
+    <string-array name="categories">
+        <item>Văn học</item>
+        <item>Khoa học</item>
+        <item>Công nghệ</item>
+        <item>Kỹ năng sống</item>
+        <item>Khác</item>
+    </string-array>
+</resources>

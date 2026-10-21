@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PTIT Brand Colors -->
+    <color name="ptit_red">#CE2020</color>
+    <color name="ptit_red_dark">#A01818</color>
+    <color name="ptit_red_light">#F5E0E0</color>
+    <color name="ptit_yellow">#FFB81C</color>
+    <color name="ptit_blue">#005493</color>
+    <color name="ptit_blue_light">#E3EFF8</color>
+    <color name="ptit_orange">#DD6B20</color>
+
+    <!-- UI Colors -->
+    <color name="background_primary">#F4F6F9</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#4A5568</color>
+    <color name="text_hint">#A0AEC0</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="input_background">#F7FAFC</color>
+    <color name="input_stroke">#CBD5E0</color>
+    <color name="input_stroke_focus">#005493</color>
+
+    <!-- Status Colors -->
+    <color name="status_unread">#E53E3E</color>
+    <color name="status_unread_bg">#FFF5F5</color>
+    <color name="status_reading">#DD6B20</color>
+    <color name="status_reading_bg">#FFFAF0</color>
+    <color name="status_done">#38A169</color>
+    <color name="status_done_bg">#F0FFF4</color>
+
+    <!-- Star -->
+    <color name="star_filled">#FFB81C</color>
+    <color name="star_empty">#E2E8F0</color>
+
+    <!-- Common -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ripple_color">#1ACE2020</color>
+</resources>
